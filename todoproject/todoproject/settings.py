@@ -127,4 +127,4 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 CUSTOM_SETTINGS = ""
 
-SAMPLE=""
+SAMPLE = ""
