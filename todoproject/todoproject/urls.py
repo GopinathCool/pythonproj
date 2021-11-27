@@ -25,5 +25,5 @@ urlpatterns = [
     path('updateTodoItem/<int:i>', updateTodoView),
     path('addtodolist/', addtodolist),
     path('deletetodolist/<int:i>', deletetodolist),
-    path('todolistpage/<int:i>', todolistpage)
+    path('todolistpage/<int:id>', todolistpage),
 ]
